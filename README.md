@@ -30,7 +30,7 @@ This is a simple Quora-like web application built using Django. It allows users 
 ### 1. Clone the repository
 
 
-# git clone https://github.com/your-username/quora-clone.git
+# git clone https://github.com/mohandas697/assignment.git
 # cd quora-clone
 
 
@@ -97,4 +97,3 @@ Visit: http://127.0.0.1:8000/
 ## Author
 
 Created by: Mohandas K 
-GitHub: [https://github.com/your-username](https://github.com/your-username)
