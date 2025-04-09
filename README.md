@@ -31,7 +31,6 @@ This is a simple Quora-like web application built using Django. It allows users 
 
 
 # git clone https://github.com/mohandas697/assignment.git
-# cd quora-clone
 
 
 ### 2. Set up virtual environment (recommended)
