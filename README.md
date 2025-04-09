@@ -18,8 +18,8 @@ This is a simple Quora-like web application built using Django. It allows users 
 
 ## Tech Stack
 
-- Python 3.x
-- Django 4.x+
+- Python 3.10.8
+- Django 4.1.7
 - SQLite (Default DB)
 - Django Forms
 
@@ -29,33 +29,36 @@ This is a simple Quora-like web application built using Django. It allows users 
 
 ### 1. Clone the repository
 
-
-# git clone https://github.com/mohandas697/assignment.git
-
+```bash
+git clone https://github.com/mohandas697/assignment.git
+```
 
 ### 2. Set up virtual environment (recommended)
 
-
-# python -m venv venv
-# source venv/bin/activate  # On Windows: venv\Scripts\activate
+```bash
+python -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
+```
 
 
 ### 3. Install dependencies
 
-# pip install django
-
+```bash
+pip install django
+```
 
 ### 4. Apply migrations
 
-
-# python manage.py makemigrations
-# python manage.py migrate
-
+```bash
+python manage.py makemigrations
+python manage.py migrate
+```
 
 ### 5. Create superuser (optional)
 
-# python manage.py createsuperuser
-
+```bash
+python manage.py createsuperuser
+```
 
 **OR**
 
