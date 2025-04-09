@@ -77,8 +77,9 @@ Use the default user already created:
 
 ### 6. Run the server
 
-# python manage.py runserver
-
+```bash
+python manage.py runserver
+```
 
 Visit: http://127.0.0.1:8000/
 
